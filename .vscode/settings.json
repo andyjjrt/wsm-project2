@@ -1,0 +1,5 @@
+{
+  "files.watcherExclude": {
+    "wsm-project2/": true
+  }
+}

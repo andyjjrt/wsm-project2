@@ -1,0 +1,6 @@
+wsm-project2/
+data/
+*.tbz
+
+__pycache__/
+*.pyc
